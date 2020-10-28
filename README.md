@@ -6,6 +6,8 @@
   Compilation of tasks for CSE4022 Fall Semester 2020-21
   <br>
   ISHAAN OHRI 18BCE0265
+  <br>
+  Faculty: Sharmila Banu K
 </p>
 
 <br>
