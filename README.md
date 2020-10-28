@@ -12,6 +12,18 @@
 
 <br>
 
+## Hands on Session
+S.No | Date
+-----|-----
+1 | 17 July 2020
+2 | 24 July 2020
+3 | 31 July 2020
+4 | 21 August 2020
+5 | 9 October 2020
+6 | 16 October 2020
+
+<br>
+
 ## Tech stacks used
 <p>
   <img src="https://github.com/IshaanOhri/IshaanOhri/blob/master/assets/jupyter.png" height=60 hspace=20>
