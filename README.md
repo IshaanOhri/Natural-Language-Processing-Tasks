@@ -13,14 +13,14 @@
 <br>
 
 ## Hands on Session
-S.No | Date
------|-----
-1 | 17 July 2020
-2 | 24 July 2020
-3 | 31 July 2020
-4 | 21 August 2020
-5 | 9 October 2020
-6 | 16 October 2020
+S.No | Date | Topic
+-----|-----|-----
+1 | 17 July 2020 | Brown Corpus and WordCloud
+2 | 24 July 2020 | Stemming and Lemmatizing
+3 | 31 July 2020 | Tweets
+4 | 21 August 2020 | Feature extraction and Cosine similarity
+5 | 9 October 2020 | Spacy
+6 | 16 October 2020 | POS tagging and Regex Parser
 
 <br>
 
